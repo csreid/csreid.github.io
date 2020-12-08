@@ -31,7 +31,11 @@ github_username:  csreid
 
 # Build settings
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 paginate: 5

@@ -102,8 +102,6 @@ defaults:
       author_profile: true
 
 analytics:
-  provider: "google-gtag"
+  provider: google-universal
   google:
-    tracking_id: "G-NS259J28H5"
-    anonymize_ip: false # default
-
+    tracking_id: UA-124534051-1
